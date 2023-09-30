@@ -15,7 +15,7 @@ NEWSPIDER_MODULE = 'linkedin.spiders'
 # HTTPCACHE_ENABLED = True
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+ROBOTSTXT_OBEY = True
 
 SCRAPEOPS_API_KEY = 'YOUR_API_KEY'
 
